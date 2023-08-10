@@ -26,6 +26,16 @@ useEffect(()=>{
       <Text style={{color:'black'}}>{notificationData}</Text>
       <Text style={{color:'black'}}>{notificationData}</Text>
       <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
+      <Text style={{color:'black'}}>{notificationData}</Text>
     </View>
   )
 }
